@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.0.0.beta.1)
+  - SDWebImage (4.4.5):
+    - SDWebImage/Core (= 4.4.5)
+  - SDWebImage/Core (4.4.5)
+  - TinyConstraints (3.3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0.beta.1)
+  - SDWebImage
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SDWebImage
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Alamofire: 2ef6d6c984c5d21c366e9b41a9ae7dfee2b67a44
+  SDWebImage: ecc03494e973b93b80213649d32175f8d2d17d4d
+  TinyConstraints: dbf7519aefc01ea59d62244300c7718aec68e280
+
+PODFILE CHECKSUM: c11a27cafbd8ef97ae881c419e4dc7562df3c6c7
+
+COCOAPODS: 1.5.3
